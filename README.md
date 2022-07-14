@@ -13,8 +13,6 @@
 3. KKBox_Correcting_Imbalance_with_Sampling_Techniques_and_Logistic_Modelling
 4. KKBox_Random_Forest_Model_Feature_Importance
 
-https://www.appbrain.com/app/kkbox-%7C-music-and-podcasts/com.skysoft.kkbox.android![image](https://user-images.githubusercontent.com/50337807/179073301-4e8a5315-daad-4687-b791-9504a7d8d6c7.png)
-
 
 ### Data Dictionary
 
