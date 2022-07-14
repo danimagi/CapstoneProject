@@ -53,7 +53,7 @@ Daily user logs describing listening behaviors of a user. Data collected until 3
 User information. Note that not every user in the dataset is available.
 - msno: user id
 - city
-- bd: age. Note: this column has outlier values ranging from -7000 to 2015, please use your judgement.
+- bd: age
 - gender
 - registered_via: registration method
 - registration_init_time: format %Y%m%d
