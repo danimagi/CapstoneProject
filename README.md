@@ -1,4 +1,4 @@
-# Capstone Project
+# KKBox Churn Rate Prediction Capstone Project
 
 :notes: Hello! :wave: This repository contains my machine learning capstone project on Churn Rate Prediction for KKBox :notes:
 
